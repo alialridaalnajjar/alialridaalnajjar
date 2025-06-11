@@ -1,7 +1,7 @@
 ## Hi there  👋
 
 # 💫 Who Am I :?
-🔭  Pursuing a bachelor's degree in Computer Sciences (1st Year)<br>🧑‍💻 I started coding in high school, fostering an intense and professional enthusiasm for the tech industry.<br>🤝 Currently learning BackEnd<br>🌱 I am keen to expand my knowledge and actively seek opportunities to apply and enhance my abilities<br>💬 Feel free to reach out and connect!<br>
+🔭  Pursuing a bachelor's degree in Computer Sciences (1st Year)<br>🤝 Currently learning BackEnd<br>🌱 I am keen to expand my knowledge and actively seek opportunities to apply and enhance my abilities<br>💬 Feel free to reach out and connect!<br>
 
 
 ## 🌐 Socials:
@@ -19,9 +19,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alialridaalnajjar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dont Forget!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo uo-to-date
 ![](https://github-contributor-stats.vercel.app/api?username=alialridaalnajjar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
