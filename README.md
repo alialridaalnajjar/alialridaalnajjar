@@ -1,7 +1,7 @@
 ## Hi there  👋
 
 # 💫 Who Am I :?
-🔭  Pursuing a bachelor's degree in Computer Sciences (1st Year)<br>🧑‍💻 I started coding in high school, fostering an intense and professional enthusiasm for the tech industry.<br>🤝 Currently learning BackEnd<br>🌱 I am keen to expand my knowledge and actively seek opportunities to apply and enhance my abilities<br>💬 Feel free to reach out and connect!<br>
+🔭  Pursuing a bachelor's degree in Computer Sciences (2nd Year)<br>🧑‍💻 I started coding in high school, fostering an intense and professional enthusiasm for the tech industry.<br>🤝 Currently learning BackEnd<br>🌱 I am keen to expand my knowledge and actively seek opportunities to apply and enhance my abilities<br>💬 Feel free to reach out and connect!<br>
 
 
 ## 🌐 Socials:
