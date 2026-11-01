@@ -1,26 +1,58 @@
-## Hi there  👋
+<a href="https://alialnajjar.me">
+  <img src="./assets/header.svg" alt="Ali Al Najjar, full-stack developer" width="100%">
+</a>
 
-# 💫 Who Am I :?
-🔭  Pursuing a bachelor's degree in Computer Sciences (2nd Year)<br>🧑‍💻 I started coding in high school, fostering an intense and professional enthusiasm for the tech industry.<br>🤝 Currently seeking opportunities and collaborations to propel my career forward.<br>🔍 Exploring Data Science and Machine Learning frameworks.
+<p align="center">
+  <a href="https://alialnajjar.me"><img src="https://img.shields.io/badge/Portfolio-alialnajjar.me-000000?style=for-the-badge&logo=googlechrome&logoColor=3b82f6" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/ali-al-rida-al-najjar-78b02a245"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=3b82f6" alt="LinkedIn"></a>
+  <a href="https://alialnajjar.me/AliAlNajjar_CV.pdf"><img src="https://img.shields.io/badge/CV-Download-000000?style=for-the-badge" alt="CV"></a>
+</p>
 
+## About
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hereisrawr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-al-rida-al-najjar-78b02a245) 
+Final-year Computer Science student at USAL, Lebanon, and a 42 Beirut student, with a focus on full-stack web development. Hands-on practice with SOLID principles and design patterns, and stack-agnostic, picking whatever tools fit the problem best.
 
-# 💻 My Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alialridaalnajjar&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alialridaalnajjar&theme=catppuccin_mocha&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alialridaalnajjar&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## Languages
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alialridaalnajjar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3b82f6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=3b82f6)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=3b82f6)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=3b82f6)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3b82f6)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=3b82f6)
 
-### ✍️ Dont Forget!
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## Frameworks & libraries
 
-### 🔝 Top Contributed Repo uo-to-date
-![](https://github-contributor-stats.vercel.app/api?username=alialridaalnajjar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=3b82f6)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=3b82f6)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=3b82f6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=3b82f6)
+
+## Tools & testing
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=3b82f6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=3b82f6)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=3b82f6)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=3b82f6)
+![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=3b82f6)
+
+## Practices
+
+![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-000000?style=for-the-badge&logoColor=3b82f6)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-000000?style=for-the-badge&logoColor=3b82f6)
+
+## Projects
+
+### [Sakkerha](https://github.com/alialridaalnajjar/REPO)
+
+### [Devart](https://github.com/alialridaalnajjar/REPO)
+
+### [AR Warehouse](https://github.com/alialridaalnajjar/REPO) · *legacy*
+
+## LeetCode
+
+<a href="https://leetcode.com/u/AliAlNajjar/">
+  <img src="https://leetcard.jacoblin.cool/AliAlNajjar?theme=dark&ext=heatmap" alt="LeetCode stats" width="100%">
+</a>
+
+<img src="./assets/footer.svg" alt="Still trying." width="100%">
